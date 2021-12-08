@@ -73,5 +73,27 @@ Nessa seção adicione os tópicos relacionados ao INCT (*incteecbio*, *inct-eec
 
 Recomendamos que os repositórios tenham testes dos códigos. Para a linguagem R, os testes podem ser realizados usando o pacote [testthat](https://testthat.r-lib.org/).
 
+## Incluir colaboradores
+
+Para incluir colaboradores nos repositórios, com permissão para acessar e contribuir com o repositório, clique em **Settings** na página do repositório. 
+
+![](settings.png)
+
+<br /br>
+
+Depois clique em **Manage access** > **Add people**.
+
+![](manage_access.png)
+
+<br /br>
+
+Inclua o nome de usuário do colaborador ou o e-mail.
+
+<p align="center">
+   <img src="./select_colaborator.png">
+</p>
+
+
+
 
 
